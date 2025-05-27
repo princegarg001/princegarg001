@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princegarg001
+- 👋 Hi, I’m @prince
 - 👀 I’m interested in upcoming Technology
 - 🌱 I’m currently learning full stack devlopment
 - 💞️ I’m looking to collaborate on mutiple position
