@@ -65,5 +65,5 @@ Focusing on:
 ---
 
 📬 **Let’s Connect**  
-Open to collabs, OSS, or just deep tech convos on backend, Linux, or cloud-native development.
+Open to collabs, OSS, or just deep tech convos on backend, or cloud-native development.
 
