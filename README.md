@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prince
 - 👀 I’m interested in upcoming Technology
-- 🌱 I’m currently learning full stack devlopment
+- 🌱 I’m currently learning full Stackk devlopment
 - 💞️ I’m looking to collaborate on mutiple position
 - 📫 How to reach me Prince Garg via linkdin
 - 😄 Pronouns: king
