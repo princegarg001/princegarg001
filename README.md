@@ -5,9 +5,10 @@
 
 ---
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=PrinceGarg" alt="Hey Developers, I'm Prince Garg!" />
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=princegarg001" alt="Hey Developers, I'm Prince Garg!" />
 </p>
 ---
+
 ## 🧠 About Me
 
 💡 **Experienced in backend technologies** such as **Golang, Spring Boot, Node.js, Flask, and Java.**  
