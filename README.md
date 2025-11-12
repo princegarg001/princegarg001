@@ -6,10 +6,9 @@
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,spring,nodejs,flask,java,python,typescript,react,nextjs,flutter,postgresql,mongodb,docker,kubernetes,git,githubactions,aws,gcp,azure&perline=9" />
-  </a>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/prince_banner.png" alt="Prince | Backend & Cloud Developer Banner" width="100%" />
 </p>
+
 
 ---
 
