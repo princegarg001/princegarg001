@@ -69,7 +69,7 @@
 
 ### 🔧 Deployment & CI/CD
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,streamlit,nix&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,nix&theme=dark" />
 </p>
 
 ---
