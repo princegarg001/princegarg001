@@ -30,18 +30,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,spring,nodejs,flask,java,python,typescript,react,nextjs,flutter,postgresql,mongodb,docker,kubernetes,git,githubactions,aws,gcp,azure&perline=9" />
-</p>
-
----
-
-<p align="center">
-  <i>“Crafting clean, resilient, and scalable systems — one commit at a time.”</i> 🧠
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧰 Backend
