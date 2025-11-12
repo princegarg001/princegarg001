@@ -1,21 +1,44 @@
-<!-- Banner -->
+<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Prince;Backend+Engineer+%7C+Cloud+Native+Enthusiast;Building+Scalable+%26+Secure+Systems+with+Go+and+Spring+Boot;Clean+Code+%7C+System+Design+%7C+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there!+👋+I'm+Prince+Garg;Backend+Engineer+%7C+Cloud+Native+Enthusiast;Building+Scalable+%26+Secure+Systems;Clean+Code+%7C+System+Design+%7C+Microservices" alt="Typing SVG" />
 </p>
 
 ---
+
+<!-- Static Banner -->
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=princegarg001" alt="Hey Developers, I'm Prince Garg!" />
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=princegarg001&name=Prince%20Garg&subtitle=Backend%20Engineer%20%7C%20Cloud%20%26%20Microservices%20Enthusiast" alt="Hey Developers, I'm Prince Garg!" />
 </p>
+
 ---
 
-## 🧠 About Me
+## 🧩 Profile Summary
 
-💡 **Experienced in backend technologies** such as **Golang, Spring Boot, Node.js, Flask, and Java.**  
-🌐 Passionate about **data and technology**, exploring the intersections of **computer science and software development.**  
-🧩 Keen interest in **system design** and solving real-world engineering challenges.  
-☁️ Strong expertise in **Cloud Computing** — hands-on with **GKE-based microservices**, **BigQuery analytics**, and **scalable architecture design.**  
-⚙️ Skilled in **deploying, managing, and optimizing cloud-native solutions** for **real-time performance** and **cost efficiency.**
+> ⚙️ *"Code is not just logic; it's craftsmanship, clarity, and impact."*
+
+💼 **Backend Engineer & Cloud Enthusiast** passionate about designing and building **scalable, high-performance systems** using **Go**, **Spring Boot**, **Node.js**, and **Flask**.  
+
+🚀 Experienced in developing **secure microservices**, crafting **RESTful APIs**, and implementing **clean, testable architectures** for production-grade systems.  
+
+☁️ **Cloud-native practitioner**, skilled in deploying and managing workloads on **GKE**, **AWS**, and **GCP**, with a focus on **Kubernetes orchestration**, **BigQuery analytics**, and **real-time scalability**.  
+
+🧠 Enthusiastic about **system design**, **distributed architectures**, and **fault-tolerant engineering** — always striving for reliability and simplicity in design.  
+
+🔐 Committed to **DevSecOps principles** and **CI/CD pipelines** using **GitHub Actions**, **Jenkins**, and **Docker** for seamless automation and delivery.  
+
+📊 Currently exploring **event-driven architectures**, **service meshes**, and **observability stacks** to push backend reliability even further.
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,spring,nodejs,flask,java,python,typescript,react,nextjs,flutter,postgresql,mongodb,docker,kubernetes,git,githubactions,aws,gcp,azure&perline=9" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Crafting clean, resilient, and scalable systems — one commit at a time.”</i> 🧠
+</p>
 
 ---
 
