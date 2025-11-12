@@ -96,15 +96,36 @@
 
 ## 🚀 Currently Exploring
 
-Designing and scaling **secure, distributed microservices** with  
-** Devops ** and **Java (Spring Boot + Spring Security)**.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Designing+secure+distributed+microservices;Mastering+Spring+Boot+%2B+Go;Exploring+LLM+Efficiency+and+Cloud+Scalability;Building+Resilient+and+Observable+Systems" alt="Typing SVG" />
+</p>
 
-Focus Areas:
-- 🧱 Clean Architecture & DDD  
-- 🔐 JWT/OAuth-based Authentication
-- cost optimisation for LLM Models
-- 🌍 API Design Patterns  
-- ⚙️ Fault Tolerance & Observability  
+💡 Designing and scaling **secure, distributed microservices** with  
+**DevOps** and **Java (Spring Boot + Spring Security)** — while exploring **Golang** and **AI-driven backend optimization**.
+
+---
+
+### 🧭 Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture%20%26%20DDD-0D1117?style=for-the-badge&logo=architectural-design&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/JWT%20%7C%20OAuth%20Security-0D1117?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth" />
+  <img src="https://img.shields.io/badge/LLM%20Model%20Cost%20Optimization-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/API%20Design%20Patterns-0D1117?style=for-the-badge&logo=swagger&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/Fault%20Tolerance%20%26%20Observability-0D1117?style=for-the-badge&logo=grafana&logoColor=white" alt="Observability" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,spring,docker,kubernetes,grafana,prometheus,openai,githubactions&perline=9" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Always evolving systems that balance intelligence, scalability, and simplicity.</i>
+</p>
 
 ---
 
