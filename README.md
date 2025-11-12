@@ -6,10 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Prince%20Garg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Prince;Backend+Engineer+%7C+Cloud+Native+Enthusiast;Building+Scalable+%26+Secure+Systems" alt="Typing SVG" />
 </p>
 
----
 
 ## 🧠 About Me
 
