@@ -4,7 +4,7 @@
 </p>
 
 ---
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Prince Garg"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=PrinceGarg"></p>
 
 
 ---
