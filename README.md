@@ -4,10 +4,7 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/prince_banner.png" alt="Prince | Backend & Cloud Developer Banner" width="100%" />
-</p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Prince Garg"></p>
 
 
 ---
