@@ -48,14 +48,14 @@
 
 ### 💾 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlit,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase&theme=dark" />
 </p>
 
 ---
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,vercel,render,terraform,githubactions,ansible,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,vercel,terraform,githubactions,ansible,grafana&theme=dark" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 ### 🔧 Deployment & CI/CD
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,streamlit,gradle,nix&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,streamlit,nix&theme=dark" />
 </p>
 
 ---
