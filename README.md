@@ -47,12 +47,12 @@ Neovim · IntelliJ IDEA · VS Code · Postman · Linux (Arch btw 😎)
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrinceGarg&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGarg&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princegarg001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=princegarg001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceGarg&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=princegarg&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -60,11 +60,12 @@ Neovim · IntelliJ IDEA · VS Code · Postman · Linux (Arch btw 😎)
 ## 🚀 Currently Exploring
 
 Designing and scaling **secure, distributed microservices** with  
-**Go (Gin)** and **Java (Spring Boot + Spring Security)**.  
+** Devops ** and **Java (Spring Boot + Spring Security)**.  
 
 Focus Areas:
 - 🧱 Clean Architecture & DDD  
-- 🔐 JWT/OAuth-based Authentication  
+- 🔐 JWT/OAuth-based Authentication
+- cost optimisation for LLM Models
 - 🌍 API Design Patterns  
 - ⚙️ Fault Tolerance & Observability  
 
@@ -73,9 +74,9 @@ Focus Areas:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/princegarg"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:prince.garg@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/PrinceGarg"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="linkedin.com/in/prince-garg-803aa8288/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:pg3355716@gmail.com.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/princegarg001"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://twitter.com/PrinceGarg"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
