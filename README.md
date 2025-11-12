@@ -97,27 +97,19 @@
 ## 🚀 Currently Exploring
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Secure+%26+Distributed+Microservices;Scaling+Cloud-Native+Systems+with+Golang+and+Java;Optimizing+LLM+Workloads+for+Performance;Building+Reliable+%26+Observable+Backends" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-  <b style="font-size:18px;">💡 Designing and scaling <span style="color:#00F7FF;">secure, distributed microservices</span> with 
-  <b>DevOps practices</b> and <b>Java (Spring Boot + Spring Security)</b> — while exploring 
-  <b>Golang</b> and <b>AI-driven backend optimization</b>.</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Designing+secure+distributed+microservices;Mastering+Spring+Boot+%2B+Go;Exploring+LLM+Efficiency+and+Cloud+Scalability;Building+Resilient+and+Observable+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧭 Focus Areas
 
-<p align="center" style="font-size:16px;">
-  <b>🏗️ Clean Architecture & DDD</b> &nbsp;•&nbsp;
-  <b>🔐 JWT / OAuth Security</b> &nbsp;•&nbsp;
-  <b>🧠 LLM Model Cost Optimization</b> &nbsp;•&nbsp;
-  <b>🌐 API Design Patterns</b> &nbsp;•&nbsp;
-  <b>⚙️ Fault Tolerance & Observability</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture%20%26%20DDD-0D1117?style=for-the-badge&logo=architectural-design&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/JWT%20%7C%20OAuth%20Security-0D1117?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth" />
+  <img src="https://img.shields.io/badge/LLM%20Model%20Cost%20Optimization-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/API%20Design%20Patterns-0D1117?style=for-the-badge&logo=swagger&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/Fault%20Tolerance%20%26%20Observability-0D1117?style=for-the-badge&logo=grafana&logoColor=white" alt="Observability" />
 </p>
 
 ---
