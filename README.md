@@ -4,8 +4,10 @@
 </p>
 
 ---
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=PrinceGarg"></p>
 
+<p align="center">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Prince%20Garg" />
+</p>
 
 ---
 
