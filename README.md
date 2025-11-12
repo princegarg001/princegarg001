@@ -30,24 +30,54 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🧰 Backend
-Golang · Spring Boot · Node.js (Express, Fastify) · Flask · Java
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,spring,nodejs,express,fastify,python,flask&theme=dark" />
+</p>
+
+---
 
 ### 🎨 Frontend
-Next.js · React · Svelte · Flutter
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,flutter,html,css,bootstrap,typescript,tailwind,js&theme=dark" />
+</p>
 
-### 🗃️ Databases
-PostgreSQL · MySQL · MongoDB · SQLite
+---
+
+### 💾 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,supabase&theme=dark" />
+</p>
+
+---
 
 ### ☁️ Cloud & DevOps
-AWS · GCP · Azure  
-Docker · Kubernetes · Docker Swarm · GitHub Actions · Jenkins  
-Ansible · Terraform · Nix · GKE
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,vercel,netlify,render,terraform,githubactions,ansible,grafana&theme=dark" />
+</p>
+
+---
+
+### 🤖 Gen AI & ML Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,openai,langchain&theme=dark" />
+</p>
+
+---
+
+### 🔧 Deployment & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git,streamlit,gradle,nix&theme=dark" />
+</p>
+
+---
 
 ### 💻 Tools & Editors
-Neovim · IntelliJ IDEA · VS Code · Postman · Linux (Arch btw 😎)
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim,idea,vscode,postman,linux,arch,figma&theme=dark" />
+</p>
 
 ---
 
