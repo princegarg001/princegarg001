@@ -88,8 +88,19 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=princegarg001&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=princegarg001&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=princegarg001&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegarg001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princegarg001&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 
