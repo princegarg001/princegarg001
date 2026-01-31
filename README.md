@@ -89,8 +89,9 @@
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=princegarg&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=princegarg001&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
 
 ---
 
