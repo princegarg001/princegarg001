@@ -16,7 +16,7 @@
 
 > ⚙️ *"Code is not just logic; it's craftsmanship, clarity, and impact."*
 
-💼 **Backend Engineer & Cloud Enthusiast** passionate about designing and building **scalable, high-performance systems** using **Go**, **Spring Boot**, **Node.js**, and **Flask**.  
+💼 **Backend Engineer & Cloud Enthusiast** passionate about Designing and building **scalable, high-performance systems** using **Go**, **Spring Boot**, **Node.js**, and **Flask**.  
 
 🚀 Experienced in developing **secure microservices**, crafting **RESTful APIs**, and implementing **clean, testable architectures** for production-grade systems.  
 
